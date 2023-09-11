@@ -1,0 +1,62 @@
+h1 {
+  font-family: "Trebuchet MS";
+  font-style: normal;
+  font-size: 90px;
+  outline-style: double;
+  color: rgb(253, 245, 245);
+  text-align: center;
+  text-transform: capitalize;
+  text-shadow: 3px 3px 3px rgb(84, 40, 40), 2px 2px 1px rgb(242, 239, 239);
+  text-align: center;
+  letter-spacing: 2px;
+}
+.gazza {
+  size: 1000px;
+  image-rendering: crisp-edges;
+  border-radius: 50%;
+  border-image-outset: 10rem;
+  image-orientation: flip;
+}
+
+main {
+  text-align: center;
+}
+ol,
+ul {
+  width: 25%;
+  margin: 0 auto;
+}
+main {
+  background: linear-gradient(135deg, #1f201e80 50%, transparent 0),
+    linear-gradient(-135deg, #fb030380 50%, transparent 0);
+  background-size: 3em 3em;
+  background-color: #ffffff;
+  opacity: 0.95;
+}
+
+main {
+  font-family: "Trebuchet MS";
+  font-weight: 1000;
+  font-size: 20px;
+}
+
+p {
+  margin-bottom: 250px;
+}
+
+footer {
+  font-size: 10px;
+}
+
+.insta {
+  display: block;
+  max-width: 70px;
+  max-height: 95px;
+  width: auto;
+  height: auto;
+  size: 1000px;
+  image-rendering: crisp-edges;
+  border-radius: 50%;
+  border-image-outset: 10rem;
+  image-orientation: flip;
+}
